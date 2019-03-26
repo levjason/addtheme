@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "inversify": "^5.0.1",
-    "make": "^0.8.1"
+    "make": "^0.8.1",
+    "net": "^1.0.2"
   }
 }
