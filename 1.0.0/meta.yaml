@@ -1,0 +1,11 @@
+id: addtheme
+version: 10.3.0.0
+type: Theia plugin
+name: Theme service explorer
+title: Theme service explorer
+description: Using the Theia theme service
+icon: https://irepo/projects/WBDT/repos/softwareag-che/raw/playground/plugins/is-navigator/packagenav.png
+url: http://irepo/projects/WBDT/repos/softwareag-che/raw/playground/plugins/assembly/sag_is_navigator.theia?raw=true
+publisher: Software AG
+category: Other
+firstPublicationDate: "2019-03-26"
