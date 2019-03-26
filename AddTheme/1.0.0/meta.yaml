@@ -1,4 +1,4 @@
-id: addtheme
+id: AddTheme
 version: 1.0.0
 type: Theia plugin
 name: Theme service explorer
